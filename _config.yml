@@ -1,8 +1,8 @@
 # Site settings
-title: Paper Theme
+title: Hyu&Works
 description: > # this means to ignore newlines until "baseurl:"
-  A gentle theme for Jekyll utilising material design.
-baseurl: "/" # the subpath of your site, e.g. /blog/
+  키워드 중심의 개발 기술 정리 블로그
+baseurl: "https://hyunworks.github.io/" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
 
 # Build settings
@@ -17,7 +17,7 @@ disqus: # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: # your name
+author: Lee Juhyun# your name
 bio:    # your bio
 email:
 email_md5: # md5 hash of your email
