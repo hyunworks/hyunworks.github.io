@@ -17,7 +17,7 @@ disqus: # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: Lee Juhyun# your name
+author: Lee Juhyun # your name
 bio:    # your bio
 email:
 email_md5: # md5 hash of your email
