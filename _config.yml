@@ -2,7 +2,7 @@
 title: Hyu&Works
 description: > # this means to ignore newlines until "baseurl:"
   키워드 중심의 개발 기술 정리 블로그
-baseurl: "https://hyunworks.github.io/" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
 
 # Build settings
